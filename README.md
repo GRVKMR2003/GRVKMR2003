@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **Phone:8423685043** (But, send a meme first 😜)
 - ⚡ Fun fact: **I can talk code, football ⚽, and tell terrible puns in one breath!**
-
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg)" alt="cplusplus" width="40" height="40"/> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav kumar" height="30" width="40" /></a>
