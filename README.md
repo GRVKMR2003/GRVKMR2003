@@ -3,6 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grvkmr2003" alt="grvkmr2003" /></a> </p>
 
+<div align="center">
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="290">
+<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="290">
+</div>
+
 - 🔭 Currently working on **Kamla_AAchar** (Because pickles 🥒 deserve an app too!) 
 - 🌱 Learning **React and Microservices** (If only I could microservice my coffee ☕)  
 - 👯 Looking to collaborate on **Spring Boot Projects** (Teamwork makes the dream work 🚀)
