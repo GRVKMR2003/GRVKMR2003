@@ -1,3 +1,4 @@
+<img align="right" alt="Coding"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVvdTZrZHA5a2E4bnh0eW9wdnJnNjduZWxpeDVrN3hpMm5rdnpsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp">
 <h1 align="center">Hi 👋, I'm GRV</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
