@@ -51,27 +51,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg"></img>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
@@ -84,3 +63,6 @@
   <br/>
 
 <br/><br/>
+
+<img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg"></img>
+
