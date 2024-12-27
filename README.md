@@ -1,20 +1,4 @@
-<div align="center"> 
-  
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
-
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+<img src="https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Gaurav Kumar ( Grv )</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -30,6 +14,25 @@
 - 📫 How to reach me **grv163world@gmail.com**
 
 - ⚡ Fun fact **I have a touch of everything in me.**
+
+
+<div align="center"> 
+  
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/GRVKMR/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/GRVKMR/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/GRVKMR/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/GRVKMR/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/GRVKMR?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
