@@ -49,7 +49,7 @@
 <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="260">
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grvkmr2003&show_icons=true&locale=en&layout=compact" alt="grvkmr2003" /></p>
+
 
 <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg"></img>
 
